@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://hataburi.github.io/sitemap/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/PtM/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/QHs/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/sDA/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/kFc/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/dDf/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/qPG/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/eTV/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/VEr/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/PAd/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/cqg/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/hGr/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/bcv/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/Gqp/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/ieT/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/DXb/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/pUR/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/QHk/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/jsM/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/AEZ/sitemap_index.hataburi
+Sitemap: https://hataburi.github.io/wSZ/sitemap_index.hataburi
